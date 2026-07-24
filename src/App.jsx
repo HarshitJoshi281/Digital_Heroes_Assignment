@@ -12,6 +12,7 @@ function App() {
   return (
     <>
     <main>
+    <Navbar/>
     <Hero />
     <Services />
     <Results />
