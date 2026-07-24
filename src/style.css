@@ -139,7 +139,7 @@ body {
 }
 
 .hero p {
-  color: #94a3b8;
+  color: #cbd5e1;
   font-size: 1.1rem;
   line-height: 1.7;
   margin-bottom: 30px;
@@ -249,7 +249,7 @@ body {
 
 .section-subtitle {
   text-align: center;
-  color: #94a3b8;
+  color: #cbd5e1;
   max-width: 700px;
   margin: 0 auto 60px;
 }
@@ -284,7 +284,7 @@ body {
 }
 
 .service-card p {
-  color: #94a3b8;
+  color: #cbd5e1;
   line-height: 1.7;
 }
 
@@ -330,7 +330,7 @@ body {
 }
 
 .stat-card p {
-  color: #94a3b8;
+  color: #cbd5e1;
 }
 
 @media (max-width: 900px) {
@@ -367,7 +367,7 @@ body {
 }
 
 .review {
-  color: #cbd5e1;
+  color: #e2e8f0;
   line-height: 1.8;
   margin-bottom: 30px;
   font-style: italic;
@@ -425,7 +425,7 @@ body {
 
 .price-card li{
     margin:12px 0;
-    color:#cbd5e1;
+    color:#e2e8f0;
 }
 
 .badge-plan{
@@ -504,7 +504,7 @@ text-align:center;
 
 margin:10px 0;
 
-color:#94a3b8;
+color:#cbd5e1;
 
 }
 
@@ -514,4 +514,9 @@ color:#8b5cf6;
 
 text-decoration:none;
 
+}
+.contact-form label {
+  color: #f8fafc;
+  font-weight: 600;
+  margin-bottom: -10px;
 }
